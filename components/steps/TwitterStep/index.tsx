@@ -29,7 +29,7 @@ export const TwitterStep: React.FC = () => {
             />
           </svg>
         </div>
-        <h2 className="mb-40">Archakov Dennis</h2>
+        <h2 className="mb-40">Username</h2>
         <Button onClick={onNextStep}>
           <img src="/static/twitter.svg" alt="Twitter logo" className={styles.twitterLogo} />
           Import from Twitter

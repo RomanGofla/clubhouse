@@ -33,6 +33,6 @@ export default function Home() {
   return (
     <MainContext.Provider value={{ step, onNextStep }}>
       <Step />
-    </MainContext.Provider>
+    </MainContext.Provider> 
   );
 }
