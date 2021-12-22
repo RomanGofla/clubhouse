@@ -1,3 +1,4 @@
 {
+  "project": "clubhouse-clone/tsconfig.json",
   "extends": "next/core-web-vitals"
 }
